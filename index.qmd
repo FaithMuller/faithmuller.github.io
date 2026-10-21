@@ -1,5 +1,8 @@
 ---
-title: "faithmuller.github.io"
+title: "Faith Muller"
+image: media/liliy.jpeg
+about:
+  template: solana
 ---
 
 This is a Quarto website.
