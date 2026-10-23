@@ -9,11 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - icon: github
+        href: http://github.com/FaithMuller
+        target: blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/faith-muller
 
 format:
   html:
     theme:
-      light: quartz
+      light: lux
       dark: darkly
     css: styles.css
     toc: true

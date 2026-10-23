@@ -1,0 +1,11 @@
+---
+title: "Resume"
+resources:
+  - media/Resume.pdf
+---
+
+About this site
+
+
+{{< pdf media/Resume.pdf width=100% height=800 >}}
+
