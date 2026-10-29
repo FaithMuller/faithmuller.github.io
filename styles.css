@@ -1,25 +1,27 @@
 /* css styles */
-h1, p {
-  color: orange;
+/* Photo: rounded corners and a soft shadow */
+img {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+/* Headings use the theme's main color */
+h1, h2, h3 {
+  color: var(--bs-primary);
+}
+
+/* A little more space between sections */
 h2 {
-  color: green;
+  margin-top: 2rem;
 }
 
-h3 {
-  color: black;
-  font-style: italic;
+/* Frame the embedded resume with the theme's border color */
+embed {
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
 }
 
-body {
-  background-color: antiquewhite;
-}
-
-ol, ul {
-  color: pink;
-}
-
-a {
-  color: purple;
+/* Links turn the theme's accent color on hover */
+a:hover {
+  color: var(--bs-info);
 }

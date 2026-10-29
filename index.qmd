@@ -1,31 +1,23 @@
 ---
-title: "Faith Muller"
+title: "Faith Kuuipo Muller"
 image: media/liliy.jpeg
 toc: false
 about:
-  template: solana
-  image-shape: rectangle
-  image-width: 10m
+  template: trestles
+  image-shape: round
   links:
     - icon: github
       href: http://github.com/FaithMuller
       target: blank
     - icon: linkedin
       href: https://www.linkedin.com/in/faith-muller
+    - icon: file-earmark-person
+      text: Resume
+      href: resume.qmd
       target: blank
 ---
 
-# This is header1
+Hi! I'm Faith, a senior and majoring in Computer Science at Chaminade University of Honolulu.
 
-## This is header2
-
-### This is header3
-
-This is a paragraph. It will be about me. [Welcome](https://bootswatch.com)
-
-- this is an unordered list
-
-- 
-
-1.  this is an ordered lists bcjewchie
-2.  
+On this site you'll find more about me and my resume.
+---
