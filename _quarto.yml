@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
- # title: "IDK"
+  title: "Faith Kuuipo Muller"
   navbar:
-    left:
+    title: "Faith's Portfolio"
+    logo: media/flag.jpeg
+    logo-alt: "Marshall Islands flag"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - resume.qmd
-      - icon: github
-        href: http://github.com/FaithMuller
-        target: blank
-      - icon: linkedin
-        href: https://www.linkedin.com/in/faith-muller
+  page-footer:
+    left: "© 2026 Faith Kuuipo Muller"
+
 
 format:
   html:

@@ -1,9 +1,35 @@
 ---
-title: "About"
+title: "About Me"
+image: media/faith.jpeg
+about:
+  template: trestles
+  image-shape: round
 ---
 
-About this site
+## ʙᴀᴄᴋɢʀᴏᴜɴᴅ
 
-```{r}
-1 + 1
-```
+- Born and raised in Majuro, Marshall Islands.
+- Female
+- Virgo
+- 23
+
+------------------------------------------------------------------------
+
+## ᴇᴅᴜᴄᴀᴛɪᴏɴ
+
+[**Chaminade University of Honolulu**](https://chaminade.edu/)\
+B.S. in Computer Science, Minor in Data Science and Mathematics, 2027
+
+[**College of the Marshall Islands**](https://cmi.edu/)\
+A.A. in Liberal Arts, Mathematics specialization, 2024
+
+[**Majuro Cooperative School**](https://majurocoopschool.wordpress.com/)\
+Pre-K through 12th grade, 2021
+
+------------------------------------------------------------------------
+
+## ꜰᴜɴ ꜰᴀᴄᴛꜱ
+
+- I LOVE [MATH](https://brilliant.org/)!!
+- I enjoy going bottom fishing with my family.
+- I love Smiskis!!

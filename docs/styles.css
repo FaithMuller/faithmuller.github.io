@@ -1,27 +1,53 @@
 /* css styles */
+/* Colors match the flatly theme (light mode only) */
+.quarto-light h1, .quarto-light p {
+  color: #2C3E50;
+}
+
+.quarto-light h2 {
+  color: #18BC9C;
+}
+
+.quarto-light h3 {
+  color: #3498DB;
+  font-style: italic;
+}
+
+body.quarto-light {
+  background-color: #EDF0F5;
+}
+
+.quarto-light ol, .quarto-light ul {
+  color: #2C3E50;
+  font-style: italic;
+}
+
+/* Links in the page text only (not the navbar) */
+.quarto-light main a {
+  color: #E74C3C;
+  font-weight: bold;
+}
+
 /* Photo: rounded corners and a soft shadow */
 img {
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* Headings use the theme's main color */
-h1, h2, h3 {
-  color: var(--bs-primary);
-}
-
-/* A little more space between sections */
-h2 {
-  margin-top: 2rem;
-}
-
-/* Frame the embedded resume with the theme's border color */
+/* Frame the embedded resume */
 embed {
-  border: 1px solid var(--bs-border-color);
+  border: 1px solid #2C3E50;
   border-radius: 8px;
 }
 
-/* Links turn the theme's accent color on hover */
-a:hover {
-  color: var(--bs-info);
+/* Logo: square corners, no shadow, bigger */
+.navbar-logo {
+  border-radius: 0;
+  box-shadow: none;
+  max-height: 50px;
+}
+
+/* Footer matches the page background */
+.quarto-light .nav-footer {
+  background-color: #EDF0F5;
 }

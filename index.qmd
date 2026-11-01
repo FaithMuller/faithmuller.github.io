@@ -1,23 +1,19 @@
 ---
-title: "Faith Kuuipo Muller"
-image: media/liliy.jpeg
+title: "(っ◔◡◔)っ ♥ Faith Kuuipo Muller ♥"
+image: media/majol_flag.jpeg
 toc: false
 about:
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   links:
     - icon: github
-      href: http://github.com/FaithMuller
-      target: blank
+      href: https://github.com/FaithMuller
+      target: _blank
     - icon: linkedin
-      href: https://www.linkedin.com/in/faith-muller
-    - icon: file-earmark-person
-      text: Resume
-      href: resume.qmd
-      target: blank
+      href: https://www.linkedin.com/in/faith-muller-1a812b417/
+      target: _blank
 ---
 
-Hi! I'm Faith, a senior and majoring in Computer Science at Chaminade University of Honolulu.
+## Iakwe and Hi :) !!
 
-On this site you'll find more about me and my resume.
----
+I'm Faith, a senior at [Chaminade University of Honolulu](https://chaminade.edu/){target="_blank"} studying Computer Science. I'm interested in using data to understand how we can address issues we face in the Pacific. Family is very important to me, and I love spending time with them and my friends.
